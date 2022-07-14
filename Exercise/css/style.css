@@ -1,0 +1,26 @@
+*{
+    background-color:rgb(249, 238, 224)  
+  }
+  input,textarea{
+    background-color: white;
+  }
+  #root{
+    background-color: beige;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol{
+    list-style-type:disc;
+    font-size: small;
+    font-style: italic;
+}
+#pe{
+  font-size:small;
+  font-style: italic;
+}
+#subol{
+  list-style-type:circle;
+}  
